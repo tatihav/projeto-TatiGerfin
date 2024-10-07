@@ -108,6 +108,24 @@
       "cost": 0,
       "services": [],
       "id": 11
+    },
+    {
+      "name": "hgh",
+      "budget": "554",
+      "cost": 0,
+      "services": [],
+      "id": 12
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Moradia"
+      },
+      "name": "fhhf",
+      "budget": "5635",
+      "cost": 0,
+      "services": [],
+      "id": 13
     }
   ],
   "categories": [
