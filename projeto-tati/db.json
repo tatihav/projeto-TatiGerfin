@@ -1,0 +1,147 @@
+{
+  "projects": [
+    {
+      "name": "alugeul",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Moradia"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "academia",
+      "budget": "160",
+      "category": {
+        "id": "4",
+        "name": "Saúde"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "compas",
+      "budget": "25",
+      "category": {
+        "id": "7",
+        "name": "Compras"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "ddf",
+      "budget": "55",
+      "category": {
+        "id": "3",
+        "name": "Transporte"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Tatiana Haveroth",
+      "budget": "548",
+      "category": {
+        "id": "3",
+        "name": "Transporte"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Tatiana Haveroth Barbosa",
+      "budget": "52",
+      "category": {
+        "id": "5",
+        "name": "Educação"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "shopee",
+      "budget": "54",
+      "category": {
+        "id": "1",
+        "name": "Alimentação"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "shopee",
+      "budget": "500",
+      "category": {
+        "id": "6",
+        "name": "Lazer"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "Tatiana Haveroth",
+      "budget": "525",
+      "category": {
+        "id": "5",
+        "name": "Educação"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 10
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Alimentação"
+    },
+    {
+      "id": 2,
+      "name": "Moradia"
+    },
+    {
+      "id": 3,
+      "name": "Transporte"
+    },
+    {
+      "id": 4,
+      "name": "Saúde"
+    },
+    {
+      "id": 5,
+      "name": "Educação"
+    },
+    {
+      "id": 6,
+      "name": "Lazer"
+    },
+    {
+      "id": 7,
+      "name": "Compras"
+    },
+    {
+      "id": 8,
+      "name": "Impostos"
+    }
+  ]
+}
