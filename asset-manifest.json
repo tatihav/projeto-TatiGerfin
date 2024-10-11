@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto-TatiGerfin/static/css/main.ac9b36ec.css",
+    "main.js": "/projeto-TatiGerfin/static/js/main.7d122e7e.js",
+    "static/media/finanças1.png": "/projeto-TatiGerfin/static/media/finanças1.29846a627c022bc99568.png",
+    "static/media/th_logo.jpg": "/projeto-TatiGerfin/static/media/th_logo.f42f662d3294c87a92fe.jpg",
+    "index.html": "/projeto-TatiGerfin/index.html",
+    "main.ac9b36ec.css.map": "/projeto-TatiGerfin/static/css/main.ac9b36ec.css.map",
+    "main.7d122e7e.js.map": "/projeto-TatiGerfin/static/js/main.7d122e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9b36ec.css",
+    "static/js/main.7d122e7e.js"
+  ]
+}
